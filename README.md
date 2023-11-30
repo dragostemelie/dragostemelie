@@ -21,4 +21,9 @@ The technologies I'm most familiar with:
 <img src="https://api.daily.dev/devcards/6aa74901c73e464ab87fc2ffc70ffa28.png?r=2a8" width="300">
 </p>
 
-Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/dragostemelie/).
+
+
+Feel free to reach out to me:
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dragostemelie)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:dragostemelie@gmail.com)
